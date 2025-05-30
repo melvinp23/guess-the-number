@@ -1,4 +1,4 @@
-# Guess My Number
+# Guess the Number Game
 
 A simple number guessing game where the player tries to guess a randomly generated number within a certain range. Built with JavaScript, HTML, and CSS.
 
